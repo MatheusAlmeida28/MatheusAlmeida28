@@ -1,5 +1,5 @@
 
-### Olá me chamo Matheus Almeida🙋‍♂️.Aqui vou disponibilizar meu contatos ou habilidades!
+### Olá me chamo Matheus🙋‍♂️.Aqui vou disponibilizar meu contato e habilidades!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-almeida-0a4519227/)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white])
