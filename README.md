@@ -9,5 +9,5 @@
 
 ![Matheus Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAlmeida28&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlmeida28)](https://github.com/MatheusAlmeida28/github-readme-stats)
+
 
