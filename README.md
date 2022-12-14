@@ -15,8 +15,6 @@
 
 ![Matheus Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAlmeida28&show_icons=true&theme=radical)
 
-### <p align="center"> Visitantes: </p>  
-### <p align="center"> ![](https://visitor-badge.glitch.me/badge?page_id=MatheusAlmeida28) </p> 
 
 
 
