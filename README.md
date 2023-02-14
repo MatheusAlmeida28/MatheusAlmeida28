@@ -14,7 +14,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p> 
 
-   (https://github-readme-stats.vercel.app/api?username=MatheusAlmeida28&show_icons=true&theme=radical)
+   !(https://github-readme-stats.vercel.app/api?username=MatheusAlmeida28&show_icons=true&theme=radical)
 
 
 
