@@ -20,5 +20,5 @@ Frameworks:
 Infrastructure and Deployment:
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <br>
-Version control
+Version control:
 <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
