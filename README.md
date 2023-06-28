@@ -17,6 +17,8 @@ Frameworks:
 <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <br>
-DevOps:
-<img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+Infrastructure and Deployment:
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<br>
+Version control
+<img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
