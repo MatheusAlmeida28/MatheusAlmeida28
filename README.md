@@ -18,7 +18,6 @@
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](#)
 
 ## Infrastructure and Deployment
 
