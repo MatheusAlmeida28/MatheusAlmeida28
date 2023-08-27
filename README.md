@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
 [![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](#)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&width=41)
 
 ## Frontend
 
